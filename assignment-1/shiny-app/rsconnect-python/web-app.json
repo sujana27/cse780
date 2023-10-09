@@ -1,0 +1,12 @@
+{
+    "https://api.shinyapps.io": {
+        "server_url": "https://api.shinyapps.io",
+        "filename": "/Users/sujana27/jupyter-notebook/NewNoteBook_files/CSE780/web-app",
+        "app_url": "https://sujana27.shinyapps.io/cse780-assignment-one/",
+        "app_id": 9974315,
+        "app_guid": null,
+        "title": "assignment-one",
+        "app_mode": "python-shiny",
+        "app_store_version": 1
+    }
+}
